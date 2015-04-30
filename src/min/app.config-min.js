@@ -1,0 +1,1 @@
+!function(t){"use strict";function e(t){t.state("home",{url:"/",controller:"App as vm",templateUrl:"src/app.template.html"})}t.config(e)}(angular.module("app"));

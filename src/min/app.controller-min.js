@@ -1,0 +1,1 @@
+!function(l){"use strict";function o(){var l=this;l.message="Hello, World"}l.controller("App",o)}(angular.module("app"));
